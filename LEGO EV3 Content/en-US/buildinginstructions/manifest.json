@@ -1,0 +1,82 @@
+[
+  {
+    "id": "Ev3-BI-1",
+    "title": "EV3RSTORM",
+    "image": "/ev3resources/images/31313_EV3RSTORM.png",
+    "availableOffline": true,
+    "isActivityBuildingInstruction": true,
+    "type": "pdf",
+    "buildingInstructions": [
+      {
+        "title": "EV3RSTORM",
+        "image": "/ev3resources/images/31313_EV3RSTORM.png",
+        "steps": 131,
+        "pdf": "/ev3resources/pdfs/31313_EV3RSTORM_2016.pdf"
+      }
+    ]
+  },
+  {
+    "id": "Ev3-BI-2",
+    "title": "GRIPP3R",
+    "image": "/ev3resources/images/31313_FRONT_009_GRIPPER.jpg",
+    "availableOffline": true,
+    "isActivityBuildingInstruction": true,
+    "type": "pdf",
+    "buildingInstructions": [
+      {
+        "title": "GRIPP3R",
+        "image": "/ev3resources/images/31313_FRONT_009_GRIPPER.jpg",
+        "steps": 124,
+        "pdf": "/ev3resources/pdfs/31313_GRIPP3R_2016.pdf"
+      }
+    ]
+  },
+  {
+    "id": "Ev3-BI-3",
+    "title": "R3PTAR",
+    "image": "/ev3resources/images/31313_R3PTAR.jpg",
+    "availableOffline": true,
+    "isActivityBuildingInstruction": true,
+    "type": "pdf",
+    "buildingInstructions": [
+      {
+        "title": "R3PTAR",
+        "image": "/ev3resources/images/31313_R3PTAR.jpg",
+        "steps": 102,
+        "pdf": "/ev3resources/pdfs/31313_R3PTAR_2016.pdf"
+      }
+    ]
+  },
+  {
+    "id": "Ev3-BI-4",
+    "title": "SPIK3R",
+    "image": "/ev3resources/images/31313_FRONT_010_SCORPION.jpg",
+    "availableOffline": true,
+    "isActivityBuildingInstruction": true,
+    "type": "pdf",
+    "buildingInstructions": [
+      {
+        "title": "SPIK3R",
+        "image": "/ev3resources/images/31313_FRONT_010_SCORPION.jpg",
+        "steps": 89,
+        "pdf": "/ev3resources/pdfs/31313_SPIK3R_2016.pdf"
+      }
+    ]
+  },
+  {
+    "id": "Ev3-BI-5",
+    "title": "TRACK3R",
+    "image": "/ev3resources/images/31313_FRONT_008_TRACKER.jpg",
+    "availableOffline": true,
+    "isActivityBuildingInstruction": true,
+    "type": "pdf",
+    "buildingInstructions": [
+      {
+        "title": "EV3RSTORM",
+        "image": "/ev3resources/images/31313_FRONT_008_TRACKER.jpg",
+        "steps": 92,
+        "pdf": "/ev3resources/pdfs/31313_TRACK3R_2016.pdf"
+      }
+    ]
+  }
+]

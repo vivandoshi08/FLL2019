@@ -1,0 +1,31 @@
+[
+  {
+    "type": "banner",
+    "title": "Program your EV3 Robots",
+    "description": "Programming your EV3 Robots has never been easier ",
+    "link": {
+      "path": "/content/start/",
+      "title": "Start"
+    },
+    "background": "#f5f5f5",
+    "image": {
+      "image": "/images/lobby-banner-primary.png",
+      "color": "#f5f5f5"
+    }
+  },
+  {
+    "type": "recentprojects"
+  },
+  {
+    "type": "cards",
+    "cards": [
+      {
+        "title": "Build your EV3 robots",
+        "description": "Select from building instructions on 5 different robots and build your robot using the LEGO elements, motors, and intelligent sensors included in the set.",
+        "image": "/images/lobby-banner-secondary.png",
+        "background": "#ffffff",
+        "link": "/content/models/"
+      }
+    ]
+  }
+]
